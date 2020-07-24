@@ -1,3 +1,5 @@
+# Twitter Text Classification
+
 In this project, I tested the BERT and GloVe models to classify tweets into one of two topics (disaster or non-disaster). The datasets used in this project can be found at: https://www.kaggle.com/c/nlp-getting-started/data
 
 Initially, I created a model using the **GloVe** embeddings and achieved F1 score of **0.74**. This can be found in [twitter_text_classification_GloVe.ipynb](https://github.com/kumarsoma/twitter_text_classification/blob/master/twitter_text_classification_GloVe.ipynb). 
